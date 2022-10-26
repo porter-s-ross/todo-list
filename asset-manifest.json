@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/porter-s-ross/todo-list/static/css/main.6abba5ab.css",
+    "main.js": "/porter-s-ross/todo-list/static/js/main.cce1f332.js",
+    "static/js/787.a5cad257.chunk.js": "/porter-s-ross/todo-list/static/js/787.a5cad257.chunk.js",
+    "index.html": "/porter-s-ross/todo-list/index.html",
+    "main.6abba5ab.css.map": "/porter-s-ross/todo-list/static/css/main.6abba5ab.css.map",
+    "main.cce1f332.js.map": "/porter-s-ross/todo-list/static/js/main.cce1f332.js.map",
+    "787.a5cad257.chunk.js.map": "/porter-s-ross/todo-list/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6abba5ab.css",
+    "static/js/main.cce1f332.js"
+  ]
+}

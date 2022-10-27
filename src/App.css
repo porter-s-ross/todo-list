@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.checked{
+  text-decoration: line-through;
+}
+
+.todolistHeader{
+  margin: 50px 0;
+}

@@ -1,0 +1,14 @@
+.task{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0px;
+    /* border: 1px solid #ced4da; */
+    margin: 25px 0px;
+
+}
+
+p{
+    margin: 0;
+}
